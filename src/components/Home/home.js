@@ -5,6 +5,7 @@ import photoRowTwo from "../../assets/images/splash-page-2.jpg";
 
 function Home() {
     return (
+        // <div className="splash-photo"></div>
         <img src={photoRowTwo} className="splash-photo" alt="row of same photo"/>
     )
 }

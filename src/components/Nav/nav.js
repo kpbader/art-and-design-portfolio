@@ -1,41 +1,29 @@
 import { Link } from "react-router-dom";
-import { useLocation } from "react-router";
 import { useState } from "react";
 import './nav.css';
-import { Button, Offcanvas } from 'react-bootstrap'
+import { Button, Offcanvas, Container } from 'react-bootstrap'
+// import { render } from "@testing-library/react";
 
 function Nav() {
 
-    const location = useLocation()
+    // const location = useLocation()
 
     // offCanvas 
     const [show, setShow] = useState(false);
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
-    const onClick = () => setShow(true);
-    // console.log(location.pathname);
-
-    const selectedTab = location.pathname;
-
-    function activeTab(path) {
-        if (selectedTab !== path) {
-            return;
-        } else {
-            return { color: "silver" }
-        }
-    }
+    // const onClick = () => setShow(true);
 
     return (
         <>
-            <div id="nav-container">
-                <Button className="openbtn" onClick={handleShow}>
+            
+                <Button id="nav-container" className="openbtn" onClick={handleShow}>
                     ☰
                 </Button>
-            </div>
+      
 
             <Offcanvas placement="end" show={show} onHide={handleClose}>
-                <Offcanvas.Header closeButton>
-                </Offcanvas.Header>
+                <Offcanvas.Header closeButton />
                 <Offcanvas.Body>
                     <section id="nav-tabs">
                         <ul className="tabpanel">
@@ -58,5 +46,6 @@ function Nav() {
     )
 
 }
+
 
 export default Nav;

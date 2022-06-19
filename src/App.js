@@ -9,19 +9,18 @@ import {
 
 import Header from "./components/Header/header";
 import Home from "./components/Home/home";
-// import Nav from "./components/Nav/nav";
+import Portfolio from "./components/Portfolio/portfolio";
+import Contact from "./components/Contact/contact";
 
 function App() {
   return (
    <>
     <Router>
       <Header />
-      {/* <Nav/>  */}
       <Routes> 
         <Route path="/" element={<Home />} />
-        <Route></Route>
-        <Route></Route>
-        <Route></Route>
+        <Route path="/Portfolio" element={<Portfolio />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
     </Router>
    </>

@@ -1,6 +1,7 @@
 import "./home.css";
 // import photoRow from "../../assets/images/splash-page-v1.jpg";
 import photoRowTwo from "../../assets/images/splash-page-2.jpg";
+// import photoRowThree from "../../assets/images/splash-page-3.jpg";
 
 
 function Home() {

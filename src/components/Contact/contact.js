@@ -50,7 +50,7 @@ function Contact() {
             <input type="text" defaultValue={name} onBlur={formChange} name="name" />
           </div>
           <div id="form-slot-2">
-            <label htmlFor="email">Email address</label>
+            <label htmlFor="email">Email</label>
             <input type="email" defaultValue={email} name="email" onBlur={formChange} />
           </div>
           <div id="form-slot-3">

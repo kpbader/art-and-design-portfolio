@@ -3,37 +3,58 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import './portfolio.css';
 import kickCan from "../../assets/images/kick-the-can.jpg"
+import bang from "../../assets/images/greattrainfinal1.jpeg";
+import steinerStreet from "../../assets/images/steiner_bayview_vintage.jpg";
+import LAcar from "../../assets/images/LA-car.png";
+import KCB from "../../assets/images/KCB.jpg";
+import Brandy from "../../assets/images/brandy_mixture.jpg";
 
 
 function Portfolio() {
 
   const projects = [
     {
-      name: 'project one',
+      name: 'Ludicrous',
       link: "some data",
-      img: 'https://images.unsplash.com/photo-1519567770579-c2fc5436bcf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80'
+      img: kickCan
     },
     {
-      name: 'project two',
+      name: 'Painting / Mixed Media',
       link: "some data",
-      img: 'https://images.unsplash.com/photo-1519567770579-c2fc5436bcf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80'
+      img: bang
     },
     {
-      name: 'project three',
+      name: 'Print / Collage',
       link: "some data",
-      img: 'https://images.unsplash.com/photo-1519567770579-c2fc5436bcf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80'
+      img: Brandy
+    },
+    {
+      name: 'Motion',
+      link: "some data",
+      img: LAcar
+    },
+    {
+      name: 'Misc. Design',
+      link: "some data",
+      img: KCB
+    },
+    { 
+      name: 'Photo',
+      link: "some data",
+      img: steinerStreet
     }
   ];
 
 
   return (
-    <Container>
-      <Row>
+    <Container className="projects-container">
+      <Row className="projects-row">
         {projects.map((project, i) => {
           return (
-            <Col>
-              <Card className="bg-dark text-white project-card">
-                <Card.Img src={project.img} alt="Card image" id="currentWorksIMG" />
+            <Col className="card-column">
+              <Card className="project-card">
+                <Card.Img src={project.img} alt="Card image" id="IMG"
+                  />
                 <Card.ImgOverlay>
                   <Card.Title className="card-text">{project.name}</Card.Title>
                 </Card.ImgOverlay>

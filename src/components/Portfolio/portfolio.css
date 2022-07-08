@@ -17,9 +17,6 @@
     transition: .3s ease;
 }
 
-/* #IMG:hover {
-    opacity: 0.2 !important;
-} */
 
 .project-card {
     border: none !important;
@@ -27,21 +24,27 @@
     height: 250px;
     width: 400px;
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     justify-content: center !important;
-    
-    /* align-items: center; */
     text-align:center;
 }
 
-.card-text {
-    font-size: 30px !important;
-    color: white;
-    padding: 70px;
-    opacity: 0;
+.card-img-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.card-text:hover{
+.card-img-overlay a{
+    font-size: 40px !important;
+    color: white !important;
+    opacity: 0;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.card-img-overlay a:hover{
     opacity: 1;
     transition: .3s ease;
     cursor: pointer !important;

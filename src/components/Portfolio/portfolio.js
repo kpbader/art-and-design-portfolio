@@ -1,4 +1,6 @@
 import { Card, Container} from 'react-bootstrap';
+import { Link } from "react-router-dom";
+import { useState } from "react";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import './portfolio.css';
@@ -15,32 +17,32 @@ function Portfolio() {
   const projects = [
     {
       name: 'Ludicrous',
-      link: "some data",
+      link: "/Ludicrous",
       img: kickCan
     },
     {
       name: 'Painting / Mixed Media',
-      link: "some data",
+      link: "/Paintingandmixedmedia",
       img: bang
     },
     {
       name: 'Print / Collage',
-      link: "some data",
+      link: "/Printandcollage",
       img: Brandy
     },
     {
       name: 'Motion',
-      link: "some data",
+      link: "/Motion",
       img: LAcar
     },
     {
       name: 'Misc. Design',
-      link: "some data",
+      link: "/Miscdesign",
       img: KCB
     },
     { 
       name: 'Photo',
-      link: "some data",
+      link: "/Photo",
       img: steinerStreet
     }
   ];
@@ -56,7 +58,8 @@ function Portfolio() {
                 <Card.Img src={project.img} alt="Card image" id="IMG"
                   />
                 <Card.ImgOverlay>
-                  <Card.Title className="card-text">{project.name}</Card.Title>
+                  
+                  <Link className="card-text" to={project.link}>{project.name}</Link>
                 </Card.ImgOverlay>
               </Card>
             </Col>

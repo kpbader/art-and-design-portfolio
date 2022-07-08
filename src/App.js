@@ -10,6 +10,7 @@ import {
 import Header from "./components/Header/header";
 import Home from "./components/Home/home";
 import Portfolio from "./components/Portfolio/portfolio";
+import Ludicrous from "./components/Ludicrous/ludicrous";
 import Contact from "./components/Contact/contact";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Routes> 
         <Route path="/" element={<Home />} />
         <Route path="/Portfolio" element={<Portfolio />} />
+        <Route path="/Ludicrous" element={<Ludicrous />} />
         <Route path="/Contact" element={<Contact />} />
       </Routes>
     </Router>

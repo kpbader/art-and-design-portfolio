@@ -30,7 +30,7 @@ function Nav() {
 
                             <Link to="/" className="tab">Home</Link>
                             <Link to="/Portfolio" className="tab">Portfolio</Link>
-                            <a href="https://drive.google.com/file/d/1CaexgmFdh3urSBDcrvxEVSO9cRZvARSp/view" target="_blank" rel="noreferrer">
+                            <a href="https://drive.google.com/file/d/1TLtqU525SZYZX6LOYLrD6Caq5_iOcl27/view?usp=sharing" target="_blank" rel="noreferrer">
                                 Resume
                             </a>
                             <Link to="/Contact" className="tab">Contact</Link>

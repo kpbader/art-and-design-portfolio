@@ -1,0 +1,40 @@
+img {
+    width: 40%; 
+    height: 40%;
+}
+
+#paintProjects {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#camAndVonIMG img{
+    width: 55%;
+    height: 55%;
+}
+
+/* #gWashIMG {
+    width: 125%;
+    height: 125%;
+} */
+
+#kPerryIMG img{
+    width: 65%;
+    height: 65%;
+}
+
+#kUptonIMG img{
+    width: 80%;
+    height: 80%;
+}
+
+#flagCrewIMG img{
+    width: 55%;
+    height: 55%;
+}
+
+#horseIMG img{
+    width: 50%;
+    height: 50%;
+}

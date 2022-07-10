@@ -21,14 +21,19 @@ function Portfolio() {
       img: kickCan
     },
     {
+      name: 'Print / Collage',
+      link: "/Printandcollage",
+      img: Brandy
+    },
+    {
       name: 'Painting / Mixed Media',
       link: "/Paintingandmixedmedia",
       img: bang
     },
-    {
-      name: 'Print / Collage',
-      link: "/Printandcollage",
-      img: Brandy
+    { 
+      name: 'Photo',
+      link: "/Photo",
+      img: steinerStreet
     },
     {
       name: 'Motion',
@@ -39,11 +44,6 @@ function Portfolio() {
       name: 'Misc. Design',
       link: "/Miscdesign",
       img: KCB
-    },
-    { 
-      name: 'Photo',
-      link: "/Photo",
-      img: steinerStreet
     }
   ];
 

@@ -1,0 +1,25 @@
+#photoProjects{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#steinerIMG img{
+    width: 40%;
+    height: 40%;
+}
+
+#manBeachIMG img{
+    width: 45%;
+    height: 45%;
+}
+
+#seaRanchIMG img{
+    width: 40%;
+    height: 40%;
+}
+
+#echoParkIMG img{
+    width: 40%;
+    height: 40%;
+}

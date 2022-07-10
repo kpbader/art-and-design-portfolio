@@ -1,0 +1,17 @@
+#printProjects{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#alexIMG img{
+    height: 35%;
+    width: 35%;
+}
+
+#flowerFenceIMG img{
+    height: 45%;
+    width: 45%;
+}
+
+

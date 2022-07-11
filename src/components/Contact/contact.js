@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-// import emailjs from 'emailjs-com'
+import emailjs from 'emailjs-com'
 import { validateEmail } from '../../utils/helpers';
 import './contact.css';
 
@@ -35,9 +35,17 @@ function Contact() {
         const submitForm = (e) => {
           e.preventDefault();
 
-          
-            // more emailJS stuff here..... 
 
+            if (!errorMessage && contactForm.name && contactForm.email && contactForm.message) {
+              emailjs.sendForm('service_dtjnzsb', 'contact_form', 'form', '71NYlxaRV1UENrt02')
+              .then((result) => {
+                console.log(result.text);
+              }, (error) => {
+                console.log(error.text);
+              });
+              setErrorMessage(`${e.target.name} is required!`)
+              e.target.reset();
+            } setContactForm({ name: '', email: '', message: '' });
 
     }
 

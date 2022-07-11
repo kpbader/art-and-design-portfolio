@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import './nav.css';
-import { Button, Offcanvas, Container } from 'react-bootstrap'
+import { Button, Offcanvas } from 'react-bootstrap'
 // import { render } from "@testing-library/react";
 
 function Nav() {
@@ -28,15 +28,14 @@ function Nav() {
                     <section id="nav-tabs">
                         <ul className="tabpanel">
 
-                            <Link to="/" className="tab">Home</Link>
-                            <Link to="/Portfolio" className="tab">Portfolio</Link>
+                            <Link to="/" className="tab" target="_top">Home</Link>
+                            <Link to="/Portfolio" className="tab" target="_top">Portfolio</Link>
                             <a href="https://drive.google.com/file/d/1TLtqU525SZYZX6LOYLrD6Caq5_iOcl27/view?usp=sharing" target="_blank" rel="noreferrer">
                                 Resume
                             </a>
-                            <Link to="/Contact" className="tab">Contact</Link>
+                            <Link to="/Contact" className="tab" target="_top">Contact</Link>
 
                         </ul>
-
                     </section>
 
                 </Offcanvas.Body>

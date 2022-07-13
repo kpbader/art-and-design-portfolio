@@ -9,15 +9,24 @@ function Motion() {
     return (
         <section id="motionProjects">
             <div id="nycAnime" className="piece">
-                <img src={canIKickIt} alt="Animation example"/>
+                <video width="750" height="400" controls >
+                    <source src={canIKickIt} type="video/mp4" />
+                    Your browser does not support HTML5 video.
+                </video>
                 <p>Untitled animation (created with Adobe After Effects)</p>
             </div>
             <div id="vfxAnime" className="piece">
-                <img src={vfx} alt="Animation example"/>
+                <video width="750" height="400" controls>
+                    <source src={vfx} type="video/mp4" />
+                    Your browser does not support HTML5 video.
+                </video>
                 <p>Untitled animation (created with Adobe After Effects)</p>
             </div>
             <div id="laAnime" className="piece">
-                <img src={laVintage} alt="Animation example"/>
+                <video width="750" height="400" controls >
+                    <source src={laVintage} type="video/mp4" />
+                    Your browser does not support HTML5 video.
+                </video>
                 <p>Untitled animation (created with Adobe After Effects)</p>
             </div>
         </section>

@@ -1,3 +1,7 @@
+.projects-container {
+    margin: 75px;
+}
+
 .card-column {
     display: flex;
     flex-direction: row;

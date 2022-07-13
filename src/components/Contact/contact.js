@@ -1,7 +1,8 @@
 import { useState, useRef } from 'react';
-import emailjs from 'emailjs-com'
+import emailjs from '@emailjs/browser';
 import { validateEmail } from '../../utils/helpers';
 import './contact.css';
+
 
 
 function Contact() {
@@ -19,7 +20,7 @@ function Contact() {
               setErrorMessage('');
             }
           } else {
-            console.log(e.target.value.length)
+            // console.log(e.target.value.length)
             if (!e.target.value.length) {
               setErrorMessage(`${e.target.name} is required!`)
             } else {
@@ -37,7 +38,7 @@ function Contact() {
 
 
             if (!errorMessage && contactForm.name && contactForm.email && contactForm.message) {
-              emailjs.sendForm('service_dtjnzsb', 'contact_form', 'form', '71NYlxaRV1UENrt02')
+              emailjs.sendForm('service_dtjnzsb', 'contact_form', 'form', `${process.env.REACT_APP_ACCESS_KEY}`)
               .then((result) => {
                 console.log(result.text);
               }, (error) => {
@@ -45,7 +46,8 @@ function Contact() {
               });
               setErrorMessage(`${e.target.name} is required!`)
               e.target.reset();
-            } setContactForm({ name: '', email: '', message: '' });
+            } 
+            setContactForm({ name: '', email: '', message: '' });
 
     }
 

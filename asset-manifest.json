@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-and-design-portfolio/static/css/main.722d5d6c.css",
-    "main.js": "/art-and-design-portfolio/static/js/main.fb13be28.js",
+    "main.js": "/art-and-design-portfolio/static/js/main.b253d46f.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
     "static/media/flag-crew.jpg": "/art-and-design-portfolio/static/media/flag-crew.56056824b729834c3d15.jpg",
@@ -57,11 +57,11 @@
     "static/media/jackuntitled.jpg": "/art-and-design-portfolio/static/media/jackuntitled.d1ee622234280c6bf559.jpg",
     "index.html": "/art-and-design-portfolio/index.html",
     "main.722d5d6c.css.map": "/art-and-design-portfolio/static/css/main.722d5d6c.css.map",
-    "main.fb13be28.js.map": "/art-and-design-portfolio/static/js/main.fb13be28.js.map",
+    "main.b253d46f.js.map": "/art-and-design-portfolio/static/js/main.b253d46f.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722d5d6c.css",
-    "static/js/main.fb13be28.js"
+    "static/js/main.b253d46f.js"
   ]
 }

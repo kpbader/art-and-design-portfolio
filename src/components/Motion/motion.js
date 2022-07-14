@@ -2,6 +2,7 @@ import "./motion.css";
 import laVintage from "../../assets/images/Main_LA.mp4";
 import canIKickIt from "../../assets/images/main-comp-nyc.mp4";
 import vfx from "../../assets/images/VFX_best.mp4";
+// import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 
 function Motion() {

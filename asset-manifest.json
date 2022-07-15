@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/art-and-design-portfolio/static/css/main.722d5d6c.css",
+    "main.css": "/art-and-design-portfolio/static/css/main.b359bd12.css",
     "main.js": "/art-and-design-portfolio/static/js/main.54db2861.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
@@ -56,12 +56,12 @@
     "static/media/KC_Bandits_Final_two-01.jpg": "/art-and-design-portfolio/static/media/KC_Bandits_Final_two-01.5b143a1f2b03c3a4c407.jpg",
     "static/media/jackuntitled.jpg": "/art-and-design-portfolio/static/media/jackuntitled.d1ee622234280c6bf559.jpg",
     "index.html": "/art-and-design-portfolio/index.html",
-    "main.722d5d6c.css.map": "/art-and-design-portfolio/static/css/main.722d5d6c.css.map",
+    "main.b359bd12.css.map": "/art-and-design-portfolio/static/css/main.b359bd12.css.map",
     "main.54db2861.js.map": "/art-and-design-portfolio/static/js/main.54db2861.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.722d5d6c.css",
+    "static/css/main.b359bd12.css",
     "static/js/main.54db2861.js"
   ]
 }

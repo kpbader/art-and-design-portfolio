@@ -28,12 +28,12 @@ function Nav() {
                     <section id="nav-tabs">
                         <ul className="tabpanel">
 
-                            <Link to="/art-and-design-portfolio" className="tab" target="_top">Home</Link>
-                            <Link to="/Portfolio" className="tab" target="_top">Portfolio</Link>
+                            <Link to="/art-and-design-portfolio" className="tab" >Home</Link>
+                            <Link to="/Portfolio" className="tab" >Portfolio</Link>
                             <a href="https://drive.google.com/file/d/1TLtqU525SZYZX6LOYLrD6Caq5_iOcl27/view?usp=sharing" target="_blank" rel="noreferrer">
                                 Resume
                             </a>
-                            <Link to="/Contact" className="tab" target="_top">Contact</Link>
+                            <Link to="/Contact" className="tab" >Contact</Link>
 
                         </ul>
                     </section>

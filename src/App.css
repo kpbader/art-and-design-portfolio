@@ -1,3 +1,100 @@
 * {
-  font-family: Copperplate, "Copperplate", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Copperplate, Impact, sans-serif;
 }
+
+/* Extra small devices */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+  .header {
+    font-size: 30px;
+  }
+
+  .splash-photo{
+    padding-top: 100px;
+  /* height: 500px !important;
+  width: 700px !important; */
+  }
+
+  .piece p{
+    font-size: 20px !important;
+  }
+
+  .piece img {
+    height: 100% !important;
+    width: 100% !important;
+  }
+
+  #contact-container #contact-form {
+    /* height: 575px; */
+    width: 300px;
+  }
+
+  #contact-container #contact-form #form-slot-1 input{
+    width: 200px;
+  }
+
+  #contact-container #contact-form #form-slot-2 input{
+    width: 200px;
+  }
+
+  #contact-container #contact-form #form-slot-3 textarea{
+    width: 200px;
+  }
+
+}
+
+/* Portrait tablets and large phones, 600px + */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+  .header {
+    font-size: 30px;
+  }
+
+  /* .openbtn {
+    font-size: 18px;
+  } */
+
+  /* .splash-photo{
+    width: 150% !important;
+    width: 150% !important;
+    
+  } */
+
+  /* .piece p{
+    font-size: 20px !important;
+  } */
+
+  .piece img {
+    height: 100% !important;
+    width: 100% !important;
+  }
+
+  #contact-container #contact-form {
+    /* height: 600px; */
+    width: 350px;
+  }
+
+  #contact-container #contact-form #form-slot-1 input{
+    width: 250px;
+  }
+
+  #contact-container #contact-form #form-slot-2 input{
+    width: 250px;
+  }
+
+  #contact-container #contact-form #form-slot-3 textarea{
+    width: 300px;
+  }
+}
+
+/* Landscape tablets, 768px + */
+/* @media only screen and (min-width: 768px) and (max-width: 979px) {
+
+
+
+}
+
+@media only screen and (min-width: 980px) and (max-width: 1024px) {
+
+} */
+

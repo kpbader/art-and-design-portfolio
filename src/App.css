@@ -9,10 +9,8 @@
     font-size: 30px;
   }
 
-  .splash-photo{
-    padding-top: 100px;
-  /* height: 500px !important;
-  width: 700px !important; */
+  #splash-container {
+    padding-top: 50px;
   }
 
   .piece p{

@@ -7,8 +7,12 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function Home() {
     return (
-        
+        <>
+        <div id="splash-container">
         <LazyLoadImage src={photoRowTwo} className="splash-photo" alt="row of same photo"/>
+        <LazyLoadImage src={photoRowTwo} className="splash-photo" alt="row of same photo"/>
+        </div>
+        </>
     )
 }
 

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-and-design-portfolio/static/css/main.3b5e9032.css",
-    "main.js": "/art-and-design-portfolio/static/js/main.704e9e29.js",
+    "main.js": "/art-and-design-portfolio/static/js/main.8486bb98.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
     "static/media/flag-crew.jpg": "/art-and-design-portfolio/static/media/flag-crew.56056824b729834c3d15.jpg",
@@ -23,6 +23,7 @@
     "static/media/table-top-for-2.jpg": "/art-and-design-portfolio/static/media/table-top-for-2.3af54cf4f05d0f5b23d0.jpg",
     "static/media/Main_LA.mp4": "/art-and-design-portfolio/static/media/Main_LA.c81a82524381b700cf36.mp4",
     "static/media/dancing-on-barrels.jpg": "/art-and-design-portfolio/static/media/dancing-on-barrels.ea41ea87e1a6eaf758ff.jpg",
+    "static/media/king-SF.jpg": "/art-and-design-portfolio/static/media/king-SF.69e417f63792d0c0dc04.jpg",
     "static/media/party-on-the-rocks.jpg": "/art-and-design-portfolio/static/media/party-on-the-rocks.b2f0914bb6e74dfc24a4.jpg",
     "static/media/NYC_print_mockup.jpg": "/art-and-design-portfolio/static/media/NYC_print_mockup.103b63b0da10d65aee44.jpg",
     "static/media/VBCmarina1.jpg": "/art-and-design-portfolio/static/media/VBCmarina1.678c0c6ca796ee2339dc.jpg",
@@ -32,6 +33,7 @@
     "static/media/alex.jpg": "/art-and-design-portfolio/static/media/alex.b42ad230d9382e99b8e0.jpg",
     "static/media/LANY-print.jpg": "/art-and-design-portfolio/static/media/LANY-print.3485f2d5371ebf09500b.jpg",
     "static/media/greattrainfinal1.jpeg": "/art-and-design-portfolio/static/media/greattrainfinal1.75a785a0855d59f4c1e7.jpeg",
+    "static/media/dance-crumble.jpg": "/art-and-design-portfolio/static/media/dance-crumble.39b48f40993ff86f9955.jpg",
     "static/media/KU1.jpg": "/art-and-design-portfolio/static/media/KU1.2433048910a9d2f59aaf.jpg",
     "static/media/KPerry1.jpg": "/art-and-design-portfolio/static/media/KPerry1.24ba684d2984d1d7878d.jpg",
     "static/media/KCB.jpg": "/art-and-design-portfolio/static/media/KCB.9c6eb9c261d196cdc38c.jpg",
@@ -57,11 +59,11 @@
     "static/media/jackuntitled.jpg": "/art-and-design-portfolio/static/media/jackuntitled.d1ee622234280c6bf559.jpg",
     "index.html": "/art-and-design-portfolio/index.html",
     "main.3b5e9032.css.map": "/art-and-design-portfolio/static/css/main.3b5e9032.css.map",
-    "main.704e9e29.js.map": "/art-and-design-portfolio/static/js/main.704e9e29.js.map",
+    "main.8486bb98.js.map": "/art-and-design-portfolio/static/js/main.8486bb98.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b5e9032.css",
-    "static/js/main.704e9e29.js"
+    "static/js/main.8486bb98.js"
   ]
 }

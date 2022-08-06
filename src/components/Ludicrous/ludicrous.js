@@ -1,3 +1,5 @@
+import danceCrumble from "../../assets/images/dance-crumble.jpg";
+import sfKing from "../../assets/images/king-SF.jpg";
 import kickCan from "../../assets/images/kick-the-can.jpg";
 import tableTop from "../../assets/images/table-top-for-2.jpg";
 import cardGame from "../../assets/images/card-game_v1.jpg";
@@ -18,6 +20,14 @@ function Ludicrous() {
 
     return (
         <section id="ludicrousProjects">
+             <div id="danceCrumbleIMG" className="piece">
+                <LazyLoadImage src={danceCrumble} alt="Portfolio piece" />
+                <p>Digital collage, 8 x 12" (print), 2022</p>
+            </div>
+            <div id="sfKingIMG" className="piece">
+                <LazyLoadImage src={sfKing} alt="Portfolio piece" />
+                <p>Digital collage, 8 x 12" (print), 2022</p>
+            </div>
             <div id="partyOnTheRocksIMG" className="piece">
                 <LazyLoadImage src={partyRocks} alt="Portfolio piece" />
                 <p>Digital collage, 8 x 12" (print), 2021</p>

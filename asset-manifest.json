@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/art-and-design-portfolio/static/css/main.3b5e9032.css",
-    "main.js": "/art-and-design-portfolio/static/js/main.8486bb98.js",
+    "main.css": "/art-and-design-portfolio/static/css/main.a18f0456.css",
+    "main.js": "/art-and-design-portfolio/static/js/main.5eb8369c.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
     "static/media/flag-crew.jpg": "/art-and-design-portfolio/static/media/flag-crew.56056824b729834c3d15.jpg",
@@ -56,14 +56,16 @@
     "static/media/KC_Bandits_jerseyGallery_Artboard 6.png": "/art-and-design-portfolio/static/media/KC_Bandits_jerseyGallery_Artboard 6.450600c4ebba4e64a216.png",
     "static/media/KC-Bandits-Purp.jpg": "/art-and-design-portfolio/static/media/KC-Bandits-Purp.05a49139683c3c3b2d3c.jpg",
     "static/media/KC_Bandits_Final_two-01.jpg": "/art-and-design-portfolio/static/media/KC_Bandits_Final_two-01.5b143a1f2b03c3a4c407.jpg",
+    "static/media/sunset_rehab_logov2.png": "/art-and-design-portfolio/static/media/sunset_rehab_logov2.0c761d4cfae8ab525529.png",
     "static/media/jackuntitled.jpg": "/art-and-design-portfolio/static/media/jackuntitled.d1ee622234280c6bf559.jpg",
+    "static/media/tft_logo_v1-blue.png": "/art-and-design-portfolio/static/media/tft_logo_v1-blue.e0580af0283625a3755b.png",
     "index.html": "/art-and-design-portfolio/index.html",
-    "main.3b5e9032.css.map": "/art-and-design-portfolio/static/css/main.3b5e9032.css.map",
-    "main.8486bb98.js.map": "/art-and-design-portfolio/static/js/main.8486bb98.js.map",
+    "main.a18f0456.css.map": "/art-and-design-portfolio/static/css/main.a18f0456.css.map",
+    "main.5eb8369c.js.map": "/art-and-design-portfolio/static/js/main.5eb8369c.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b5e9032.css",
-    "static/js/main.8486bb98.js"
+    "static/css/main.a18f0456.css",
+    "static/js/main.5eb8369c.js"
   ]
 }

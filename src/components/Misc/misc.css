@@ -4,6 +4,11 @@
     text-align: center;
 }
 
+#srIMG img {
+    width: 40%;
+    height: 40%;
+}
+
 #ffPosterIMG img{
     width: 60%;
     height: 60%;

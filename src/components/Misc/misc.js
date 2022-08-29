@@ -1,4 +1,6 @@
 import "./misc.css";
+import sunsetRehab from "../../assets/images/sunset_rehab_logov2.png";
+import transitions from "../../assets/images/tft_logo_v1-blue.png";
 import ffPoster from "../../assets/images/FF_Poster_Mockup.jpg";
 import ccPoster from "../../assets/images/CCposter_v1.jpg";
 import kcb from "../../assets/images/KCB.jpg"
@@ -15,6 +17,14 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 function Misc() {
     return(
         <section id="miscProjects">
+            <div id="srIMG" className="piece">
+                <LazyLoadImage src={sunsetRehab} alt="Portfolio piece"/>
+                <p>Logo design, 2022</p>
+            </div>
+            <div id="tftIMG" className="piece">
+                <LazyLoadImage src={transitions} alt="Portfolio piece"/>
+                <p>Logo design, 2022</p>
+            </div>
             <div id="ffPosterIMG" className="piece">
                 <LazyLoadImage src={ffPoster} alt="Portfolio piece"/>
                 <p>Poster mockup, 2020</p>

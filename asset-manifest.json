@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-and-design-portfolio/static/css/main.a18f0456.css",
-    "main.js": "/art-and-design-portfolio/static/js/main.5eb8369c.js",
+    "main.js": "/art-and-design-portfolio/static/js/main.cdef0351.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
     "static/media/flag-crew.jpg": "/art-and-design-portfolio/static/media/flag-crew.56056824b729834c3d15.jpg",
@@ -23,6 +23,7 @@
     "static/media/table-top-for-2.jpg": "/art-and-design-portfolio/static/media/table-top-for-2.3af54cf4f05d0f5b23d0.jpg",
     "static/media/Main_LA.mp4": "/art-and-design-portfolio/static/media/Main_LA.c81a82524381b700cf36.mp4",
     "static/media/dancing-on-barrels.jpg": "/art-and-design-portfolio/static/media/dancing-on-barrels.ea41ea87e1a6eaf758ff.jpg",
+    "static/media/Collage_9-29_v2.jpg": "/art-and-design-portfolio/static/media/Collage_9-29_v2.54948d9727af956027ca.jpg",
     "static/media/king-SF.jpg": "/art-and-design-portfolio/static/media/king-SF.69e417f63792d0c0dc04.jpg",
     "static/media/party-on-the-rocks.jpg": "/art-and-design-portfolio/static/media/party-on-the-rocks.b2f0914bb6e74dfc24a4.jpg",
     "static/media/NYC_print_mockup.jpg": "/art-and-design-portfolio/static/media/NYC_print_mockup.103b63b0da10d65aee44.jpg",
@@ -30,6 +31,8 @@
     "static/media/KC_Bandits_hat.jpg": "/art-and-design-portfolio/static/media/KC_Bandits_hat.b23e627248fa09bff14f.jpg",
     "static/media/dinner-party.jpg": "/art-and-design-portfolio/static/media/dinner-party.426299aba82e72f19130.jpg",
     "static/media/vancouverBCseawall.jpg": "/art-and-design-portfolio/static/media/vancouverBCseawall.5c4ec37a79d1274c68c7.jpg",
+    "static/media/Collage_9-17-22.jpg": "/art-and-design-portfolio/static/media/Collage_9-17-22.5ef5297b0b627d543d90.jpg",
+    "static/media/Collage_Oct-1_v1.jpg": "/art-and-design-portfolio/static/media/Collage_Oct-1_v1.6fdd2225d9d08e9db1d8.jpg",
     "static/media/alex.jpg": "/art-and-design-portfolio/static/media/alex.b42ad230d9382e99b8e0.jpg",
     "static/media/LANY-print.jpg": "/art-and-design-portfolio/static/media/LANY-print.3485f2d5371ebf09500b.jpg",
     "static/media/greattrainfinal1.jpeg": "/art-and-design-portfolio/static/media/greattrainfinal1.75a785a0855d59f4c1e7.jpeg",
@@ -61,11 +64,11 @@
     "static/media/tft_logo_v1-blue.png": "/art-and-design-portfolio/static/media/tft_logo_v1-blue.e0580af0283625a3755b.png",
     "index.html": "/art-and-design-portfolio/index.html",
     "main.a18f0456.css.map": "/art-and-design-portfolio/static/css/main.a18f0456.css.map",
-    "main.5eb8369c.js.map": "/art-and-design-portfolio/static/js/main.5eb8369c.js.map",
+    "main.cdef0351.js.map": "/art-and-design-portfolio/static/js/main.cdef0351.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a18f0456.css",
-    "static/js/main.5eb8369c.js"
+    "static/js/main.cdef0351.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/art-and-design-portfolio/static/css/main.a18f0456.css",
-    "main.js": "/art-and-design-portfolio/static/js/main.cdef0351.js",
+    "main.css": "/art-and-design-portfolio/static/css/main.1b9dbbd2.css",
+    "main.js": "/art-and-design-portfolio/static/js/main.db80b904.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
     "static/media/flag-crew.jpg": "/art-and-design-portfolio/static/media/flag-crew.56056824b729834c3d15.jpg",
@@ -63,12 +63,12 @@
     "static/media/jackuntitled.jpg": "/art-and-design-portfolio/static/media/jackuntitled.d1ee622234280c6bf559.jpg",
     "static/media/tft_logo_v1-blue.png": "/art-and-design-portfolio/static/media/tft_logo_v1-blue.e0580af0283625a3755b.png",
     "index.html": "/art-and-design-portfolio/index.html",
-    "main.a18f0456.css.map": "/art-and-design-portfolio/static/css/main.a18f0456.css.map",
-    "main.cdef0351.js.map": "/art-and-design-portfolio/static/js/main.cdef0351.js.map",
+    "main.1b9dbbd2.css.map": "/art-and-design-portfolio/static/css/main.1b9dbbd2.css.map",
+    "main.db80b904.js.map": "/art-and-design-portfolio/static/js/main.db80b904.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a18f0456.css",
-    "static/js/main.cdef0351.js"
+    "static/css/main.1b9dbbd2.css",
+    "static/js/main.db80b904.js"
   ]
 }

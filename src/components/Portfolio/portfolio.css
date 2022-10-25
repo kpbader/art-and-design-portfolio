@@ -25,8 +25,8 @@
 .project-card {
     border: none !important;
     /* border-radius: 10px !important; */
-    height: 250px;
-    width: 400px;
+    height: 300px !important;
+    width: 400px !important;
     display: flex;
     /* flex-direction: column; */
     justify-content: center !important;

@@ -2,6 +2,7 @@ import { useState, useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { validateEmail } from '../../utils/helpers';
 import './contact.css';
+import Fade from 'react-reveal/Fade';
 
 
 
@@ -53,6 +54,7 @@ function Contact() {
 
     return (
         <section id="contact-container">
+          <Fade bottom>
         <form id="contact-form" ref={form} onSubmit={submitForm}>
           <h3>Contact</h3>
           <div id="form-slot-1">
@@ -69,6 +71,7 @@ function Contact() {
           </div>
           <button type="submit" className="contact-submit-btn">Submit</button>
         </form>
+        </Fade>
       </section>
     )
 };

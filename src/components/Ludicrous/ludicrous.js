@@ -16,6 +16,7 @@ import bullies from "../../assets/images/bullies.jpg";
 import sfMeeting from "../../assets/images/Collage_9-17-22.jpg";
 import golfVBC from "../../assets/images/Collage_9-29_v2.jpg";
 import eWS from "../../assets/images/Collage_Oct-1_v1.jpg";
+import polo from "../../assets/images/polo-in-rubble.jpg";
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import "./ludicrous.css";
 
@@ -23,6 +24,10 @@ function Ludicrous() {
 
     return (
         <section id="ludicrousProjects">
+            <div id="poloIMG" className="piece">
+                <LazyLoadImage src={polo} alt="Portfolio piece" />
+                <p>Digital collage, 6 x 12" (print), 2022</p>
+            </div>
              <div id="ewsIMG" className="piece">
                 <LazyLoadImage src={eWS} alt="Portfolio piece" />
                 <p>Digital collage, 6 x 12" (print), 2022</p>

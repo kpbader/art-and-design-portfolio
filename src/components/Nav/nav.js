@@ -30,6 +30,9 @@ function Nav() {
 
                             <Link to="/art-and-design-portfolio" className="tab" >Home</Link>
                             <Link to="/Portfolio" className="tab" >Portfolio</Link>
+                            <a href="https://www.etsy.com/shop/kpbaderart?ref=shop_sugg" target="_blank" rel="noreferrer">
+                                Shop
+                            </a>
                             <a href="https://drive.google.com/file/d/1TLtqU525SZYZX6LOYLrD6Caq5_iOcl27/view?usp=sharing" target="_blank" rel="noreferrer">
                                 Resume
                             </a>

@@ -14,7 +14,10 @@ import golfSwingOne from "../../assets/images/Bader_Untitled.JPG";
 import ohLookie from "../../assets/images/Bader_Untitled2.JPG";
 import bullies from "../../assets/images/bullies.jpg";
 import sfMeeting from "../../assets/images/Collage_9-17-22.jpg";
-import golfVBC from "../../assets/images/Collage_9-29_v2.jpg";
+import collage420 from "../../assets/images/collage_4-20-23.jpg";
+import crashParty from "../../assets/images/crash-party-2-20-23.jpg";
+import poolDip from "../../assets/images/pool-dip_3-29.jpg";
+import vegasKatrina from "../../assets/images/vegas-katrina-baseball.jpg";
 import eWS from "../../assets/images/Collage_Oct-1_v1.jpg";
 import polo from "../../assets/images/polo-in-rubble.jpg";
 import { LazyLoadImage } from 'react-lazy-load-image-component';
@@ -24,6 +27,22 @@ function Ludicrous() {
 
     return (
         <section id="ludicrousProjects">
+            <div id="crashPartyIMG" className="piece">
+                <LazyLoadImage src={crashParty} alt="Portfolio piece" />
+                <p>Digital collage, 8 x 16" (print), 2023</p>
+            </div>
+            <div id="collage420IMG" className="piece">
+                <LazyLoadImage src={collage420} alt="Portfolio piece" />
+                <p>Digital collage, 8 x 16" (print), 2023</p>
+            </div>
+            <div id="vegasKatrinaIMG" className="piece">
+                <LazyLoadImage src={vegasKatrina} alt="Portfolio piece" />
+                <p>Digital collage, 8 x 16" (print), 2023</p>
+            </div>
+            <div id="poolDipIMG" className="piece">
+                <LazyLoadImage src={poolDip} alt="Portfolio piece" />
+                <p>Digital collage, 16" x 8" (print), 2023</p>
+            </div>
             <div id="poloIMG" className="piece">
                 <LazyLoadImage src={polo} alt="Portfolio piece" />
                 <p>Digital collage, 6 x 12" (print), 2022</p>
@@ -31,10 +50,6 @@ function Ludicrous() {
              <div id="ewsIMG" className="piece">
                 <LazyLoadImage src={eWS} alt="Portfolio piece" />
                 <p>Digital collage, 6 x 12" (print), 2022</p>
-            </div>
-            <div id="golfvbcIMG" className="piece">
-                <LazyLoadImage src={golfVBC} alt="Portfolio piece" />
-                <p>Digital collage, 8 x 12" (print), 2022</p>
             </div>
             <div id="sfMeetingIMG" className="piece">
                 <LazyLoadImage src={sfMeeting} alt="Portfolio piece" />

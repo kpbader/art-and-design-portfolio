@@ -4,13 +4,12 @@ import { Link } from "react-router-dom";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import './portfolio.css';
-// import kickCan from "../../assets/images/kick-the-can.jpg"
-import danceCrumble from "../../assets/images/dance-crumble.jpg";
 import bang from "../../assets/images/greattrainfinal1.jpeg";
 import steinerStreet from "../../assets/images/steiner_bayview_vintage.jpg";
 import LAcar from "../../assets/images/LA-car.png";
 import KCB from "../../assets/images/KCB.jpg";
 import Brandy from "../../assets/images/brandy_mixture.jpg";
+import crash from "../../assets/images/crash-party-2-20-23.jpg";
 // import Fade from 'react-reveal/Fade';
 import Fade from 'react-reveal/Fade';
 
@@ -21,7 +20,7 @@ function Portfolio() {
     {
       name: 'Ludicrous',
       link: "/Ludicrous",
-      img: danceCrumble
+      img: crash
     },
     {
       name: 'Print / Collage',

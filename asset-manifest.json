@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/art-and-design-portfolio/static/css/main.133548ee.css",
-    "main.js": "/art-and-design-portfolio/static/js/main.fde07012.js",
+    "main.js": "/art-and-design-portfolio/static/js/main.df114337.js",
     "static/js/787.82f0b0c4.chunk.js": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js",
     "static/media/main-comp-nyc.mp4": "/art-and-design-portfolio/static/media/main-comp-nyc.77e1f4d9b2b630898440.mp4",
     "static/media/flag-crew.jpg": "/art-and-design-portfolio/static/media/flag-crew.56056824b729834c3d15.jpg",
@@ -13,21 +13,24 @@
     "static/media/Near SeaRanch3.jpg": "/art-and-design-portfolio/static/media/Near SeaRanch3.706a77e9382ffc6a3a31.jpg",
     "static/media/EchoPark2.jpg": "/art-and-design-portfolio/static/media/EchoPark2.af6c10a193b0e27e1235.jpg",
     "static/media/flowerfence.jpg": "/art-and-design-portfolio/static/media/flowerfence.00c5dcfcb3c95912036d.jpg",
+    "static/media/vegas-katrina-baseball.jpg": "/art-and-design-portfolio/static/media/vegas-katrina-baseball.1770ed8c8d43dae312ba.jpg",
     "static/media/Venice skater1.jpg": "/art-and-design-portfolio/static/media/Venice skater1.99818375eba576f7102c.jpg",
+    "static/media/crash-party-2-20-23.jpg": "/art-and-design-portfolio/static/media/crash-party-2-20-23.03e2d69548f895273e0d.jpg",
     "static/media/alta_plaza_vintage.jpg": "/art-and-design-portfolio/static/media/alta_plaza_vintage.8f85e98d41943bdd2e95.jpg",
     "static/media/LA-car.png": "/art-and-design-portfolio/static/media/LA-car.c89a53efd0c25105ee1a.png",
     "static/media/sea-ranch.jpg": "/art-and-design-portfolio/static/media/sea-ranch.9aaa95bc18f97bac4a72.jpg",
     "static/media/steiner_bayview_vintage.jpg": "/art-and-design-portfolio/static/media/steiner_bayview_vintage.631a0283de185b3e8da1.jpg",
+    "static/media/collage_4-20-23.jpg": "/art-and-design-portfolio/static/media/collage_4-20-23.68a7f37d603cb8d24c4f.jpg",
     "static/media/DSC_0633.JPG": "/art-and-design-portfolio/static/media/DSC_0633.f47733bae06ea556f391.JPG",
     "static/media/ManhattanBeach1.jpg": "/art-and-design-portfolio/static/media/ManhattanBeach1.fe365dd715e63e5d1ac8.jpg",
     "static/media/table-top-for-2.jpg": "/art-and-design-portfolio/static/media/table-top-for-2.3af54cf4f05d0f5b23d0.jpg",
     "static/media/Main_LA.mp4": "/art-and-design-portfolio/static/media/Main_LA.c81a82524381b700cf36.mp4",
     "static/media/dancing-on-barrels.jpg": "/art-and-design-portfolio/static/media/dancing-on-barrels.ea41ea87e1a6eaf758ff.jpg",
-    "static/media/Collage_9-29_v2.jpg": "/art-and-design-portfolio/static/media/Collage_9-29_v2.54948d9727af956027ca.jpg",
     "static/media/king-SF.jpg": "/art-and-design-portfolio/static/media/king-SF.69e417f63792d0c0dc04.jpg",
     "static/media/party-on-the-rocks.jpg": "/art-and-design-portfolio/static/media/party-on-the-rocks.b2f0914bb6e74dfc24a4.jpg",
     "static/media/NYC_print_mockup.jpg": "/art-and-design-portfolio/static/media/NYC_print_mockup.103b63b0da10d65aee44.jpg",
     "static/media/VBCmarina1.jpg": "/art-and-design-portfolio/static/media/VBCmarina1.678c0c6ca796ee2339dc.jpg",
+    "static/media/pool-dip_3-29.jpg": "/art-and-design-portfolio/static/media/pool-dip_3-29.9073262db3de35d63f48.jpg",
     "static/media/KC_Bandits_hat.jpg": "/art-and-design-portfolio/static/media/KC_Bandits_hat.b23e627248fa09bff14f.jpg",
     "static/media/dinner-party.jpg": "/art-and-design-portfolio/static/media/dinner-party.426299aba82e72f19130.jpg",
     "static/media/vancouverBCseawall.jpg": "/art-and-design-portfolio/static/media/vancouverBCseawall.5c4ec37a79d1274c68c7.jpg",
@@ -65,11 +68,11 @@
     "static/media/tft_logo_v1-blue.png": "/art-and-design-portfolio/static/media/tft_logo_v1-blue.e0580af0283625a3755b.png",
     "index.html": "/art-and-design-portfolio/index.html",
     "main.133548ee.css.map": "/art-and-design-portfolio/static/css/main.133548ee.css.map",
-    "main.fde07012.js.map": "/art-and-design-portfolio/static/js/main.fde07012.js.map",
+    "main.df114337.js.map": "/art-and-design-portfolio/static/js/main.df114337.js.map",
     "787.82f0b0c4.chunk.js.map": "/art-and-design-portfolio/static/js/787.82f0b0c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.133548ee.css",
-    "static/js/main.fde07012.js"
+    "static/js/main.df114337.js"
   ]
 }
